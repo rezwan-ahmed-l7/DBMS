@@ -6,7 +6,7 @@
 
   <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 
