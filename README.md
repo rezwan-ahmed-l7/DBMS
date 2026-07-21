@@ -2,9 +2,11 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 
