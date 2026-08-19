@@ -1,4 +1,4 @@
-# Database Management System (DBMS)
+# Database Learning Journey
 
 <p align="center">
 
@@ -8,90 +8,82 @@
 
   <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 <p align="center">
-A collection of SQL laboratory exercises, database design, and practical DBMS concepts completed throughout my B.Sc. Engineering in Computer Science & Engineering.
+A personal repository documenting my journey of learning SQL, databases, and practical database technologies through hands-on development and experimentation.
 </p>
 
 ---
 
 # About The Repository
 
-This repository contains my laboratory work, SQL scripts, assignments, and practical exercises completed during the **Database Management System (DBMS)** course.
+This repository contains my practice code, SQL queries, database exercises, and experiments as I develop my understanding of database technologies.
 
-The primary goal of this repository is to strengthen my understanding of relational databases, SQL, database design principles, and practical database management concepts through hands-on laboratory practice.
+It is part of my personal development journey and goes beyond my university coursework, allowing me to continuously practice and explore databases through hands-on implementation.
 
-It also serves as a personal learning archive documenting my progress throughout my B.Sc. Engineering journey.
+My current focus is on **SQL, MySQL, PostgreSQL, and relational database concepts**.
 
 ---
 
-# Topics Covered
+# Current Learning
 
-- Introduction to DBMS
-- Relational Database Concepts
-- SQL Fundamentals
-- Data Definition Language (DDL)
-- Data Manipulation Language (DML)
-- Data Control Language (DCL)
-- Transaction Control Language (TCL)
+- SQL fundamentals and advanced querying
+- Relational database concepts
+- Database design and relationships
+- DDL, DML, DCL, and TCL
 - Constraints
 - Joins
-- Aggregate Functions
-- Nested Queries
+- Aggregate functions
+- Nested queries
 - Views
-- Database Design
-- ER Diagrams
-- Laboratory Assignments
-- Structured Lab Reports
+- Normalization
+- Transactions
+- Data integrity
+- Practical database problem-solving
 
 ---
 
-# Repository Contents
-
-- SQL Scripts
-- Laboratory Assignments
-- Structured Lab Reports
-- Output Screenshots
-- Database Design Exercises
-
----
-
-# Tools & Technologies
+# Database Technologies
 
 | Technology | Purpose |
 |------------|---------|
 | SQL | Database Query Language |
 | MySQL | Relational Database Management System |
-| MySQL Workbench | Database Development |
-| Git & GitHub | Version Control |
+| PostgreSQL | Relational Database Management System |
+| DataGrip | Database development and SQL practice |
+| Git & GitHub | Version control and documentation |
 
 ---
 
-# Learning Outcomes
+# Learning Focus
 
-Throughout this repository I continue improving my understanding of:
+Through this repository, I am working to improve my ability to:
 
-- Relational database concepts
-- SQL query writing
-- Database design principles
-- Data retrieval and manipulation
-- Query optimization techniques
-- Database problem-solving skills
+- Write and understand SQL queries
+- Design relational databases
+- Work with tables and relationships
+- Retrieve, manipulate, and manage data
+- Apply database constraints and integrity rules
+- Understand normalization and transactions
+- Work with different relational database systems
+- Solve practical database problems
 
 ---
 
 # Future Learning
 
-- Advanced SQL
-- Stored Procedures
+- MongoDB
+- NoSQL database concepts
+- Stored procedures
 - Triggers
 - Functions
-- Views
 - Indexing
-- Database Optimization
-- Normalization
-- Transactions
+- Query optimization
+- Database performance
+- Advanced database design
 
 ---
 
@@ -103,8 +95,6 @@ B.Sc. Engg. in CSE Student | Aspiring Software Engineer
 
 ---
 
-# Support
-
-🌱 This repository documents my continuous learning journey in Database Management Systems. The SQL scripts, assignments, and reports are shared for educational purposes and may be helpful for students learning similar database concepts.
+🌱 This repository is part of my personal development journey. The code, queries, exercises, and experiments are documented as I learn and apply database technologies through practical work.
 
 If you found this repository useful, consider giving it a ⭐ on GitHub. Thank you.
